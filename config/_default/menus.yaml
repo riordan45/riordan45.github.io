@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Daniel Incicău
+  - name: Rares Iordan
     url: '#about'
     weight: 10
   - name: Blog
@@ -19,10 +19,10 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/daniel_incicau_cv.pdf
+    url: uploads/CV_Rares.pdf
     weight: 50
 
 
-  - name: "Last Updated: Feb 2023"
+  - name: "Last Updated: May 2024"
     url: '#last-updated'
     weight: 60

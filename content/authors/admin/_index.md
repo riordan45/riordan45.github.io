@@ -1,41 +1,44 @@
 ---
 # Display name
-title: Daniel Incicău
+title: Rares Iordan
 
 # Full name (for SEO)
-first_name: Daniel
-last_name: Incicău
+first_name: Rares
+last_name: Iordan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: MSc in Computational Biology and Bioinformatics | Software Engineer
+role: Research Associate | Machine Learning Engineer and Co-Founder at TeesyTek
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ETH Zürich
-    url: https://cbb.ethz.ch
+  - name: University College London
+    url: https://www.ucl.ac.uk/
+  - name: TeesyTek
+    url: https://teesytek.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed computing, functional programming and bioinformatics.
+bio: My research interests include Robotics, Variational Inference, Reinforcement Learning and Optimization.
 
 # Interests to show in About widget
 interests:
-  - Distributed Computing
-  - Functional Programming
+  - Robotics
+  - Variational Inference
+  - Reinforcement Learning
+  - Optimization
   - Machine Learning
-  - Bioinformatics
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Computational Biology and Bioinformatics
-      institution: ETH Zürich
-      year: 2023
-    - course: BEng in Computer Engineering
-      institution: Polytechnic University of Timișoara
-      year: 2020
+    - course: MSc in Machine Learning
+      institution: University College London
+      year: 2022
+    - course: BSc in Physics
+      institution: University College London
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,18 +47,18 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dincicau@student.ethz.ch'
+    link: 'mailto:raresiora@gmail.com'
     display:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/DanInci
+    link: https://github.com/riordan45
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/daniel-incicau/
+    link: https://www.linkedin.com/in/rares-ioan-iordan-867333196/
   - icon: cv
     icon_pack: ai
-    link: uploads/daniel_incicau_cv.pdf
+    link: uploads/CV_Rares.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'daniel.incicau@gmail.com'
@@ -65,10 +68,8 @@ highlight_name: true
 
 ---
 
-Hi there! I am **Daniel**, a software engineer based in Switzerland. Originally from Romania, I obtained my bachelor degree in Computer Engineering at the [Polytechnic University](https://www.upt.ro/) in [Timișoara](https://en.wikipedia.org/wiki/Timi%C8%99oara). Presently, I am living in the picturesque alpine nation pursuing my interest in life sciences by studying [Computational Biology and Bioinformatics](https://cbb.ethz.ch) at [ETH Zürich](https://ethz.ch/en.html).
-{style="text-align: justify;"}
+Greetings! I am a Machine Learning Engineer, originally from Romania, and a co-founder at [TeesyTek](https://teesytek.com/), where we develop [robots for golf](https://www.youtube.com/watch?v=QMOTUWxCDPc). Previously, I was a Research Associate in the [Statistical Machine Learning Group](https://www.sml-group.cc/) at [UCL](https://www.ucl.ac.uk/) where I helped develop [vGPMP](https://proceedings.mlr.press/v238/c-cosier24a.html), a highly customizable probabilistic motion planning algorithm. During my MSc, I published at an ICML workshop about the optimization dynamics of Reinforcement Learning algorithms [here](https://arxiv.org/abs/2307.04210). I also feel fortunate to have interned at [CERN](https://home.cern/) where I applied different Graph Neural Network techniques to Particle Physics. You can find more about it [here](https://cds.cern.ch/record/2864131).
 
-I am passionate about technology and I'm always down to engage in constructive discussions about various topics. I enjoy spending time with motivated people who share my curiosity and drive to learn more about the world.
-{style="text-align: justify;"}
+I am passionate about technology and enjoy engaging in meaningful discussions on various topics. I'm open to new ventures, so always feel free to reach out! More than anything, I thrive on tackling challenging problems where the solutions aren't immediately obvious, as it drives me to innovate and learn continuously.
 
- During my downtime, you can find me hiking, playing tennis or reading a book.
+

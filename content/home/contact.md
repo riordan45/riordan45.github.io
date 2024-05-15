@@ -26,16 +26,16 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: dincicau |at| student.ethz.ch
+  email: raresiora |at| gmail.com
   contact_links:
     - icon: github
       icon_pack: fab
       name: GitHub
-      link: https://github.com/DanInci
+      link: https://github.com/riordan45
     - icon: linkedin
       name: LinkedIn
       icon_pack: fab
-      link: https://www.linkedin.com/in/daniel-incicau/
+      link: https://www.linkedin.com/in/rares-ioan-iordan-867333196/
 
 design:
   columns: '2'

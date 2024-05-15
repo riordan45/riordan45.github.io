@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://riordan45.github.io/sitemap.xml

@@ -22,38 +22,55 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Engineer
-    company: BusyMachines
+  - title: Machine Learning Engineer
+    company: TeesyTek
     company_url: 'https://www.busymachines.com/'
-    company_logo: org-busymachines
-    location: Timișoara, Romania / Amsterdam, Netherlands
-    date_start: '2018-06-20'
+    company_logo: teesytek-logo
+    location: Zürich, Switzerland
+    date_start: '2023-10-20'
     date_end: ''
     description: |-
-        <font size="4"> Responsible for all steps of the Agile software development cycle: from requirements engineering, to actual implementation, testing, and release of features.
+        <font size="4"> Responsible for the development, testing, and release of all functionalities of Golf-e. I also developed the motion planning algorithm for our robots.
           {style="text-align: justify;"}
 
-        - Build high-performance, distributed systems in a pure functional way, mostly involved with Scala and associated functional libraries
-        - Provide mentorship for junior colleagues (code design, reviews, pair programming)
+        - Research and develop high-throughput, robust computer vision solutions that achieve 95% accuracy under time constraints (<2s execution)
+        - Build high-performance, memory-efficient, concurrent systems for Rockchip 3588 SoC
+        - Architect and deploy machine learning models on the cloud for scalable and reliable performance
 
-        **Skills:** _Scala_, _Java_, _Distributed Systems_, _Data Analytics_, _Kafka_, _Mentoring_, _AWS_</font>
+        **Skills:** _Python_, _Computer Vision_, _Optimization_, _Robotics_, _AWS_, _S3_, _Lambda_, _SQS_, _SageMaker_, _Serverless_</font>
 
-  - title: Research Intern
-    company: ETA AI Center
-    company_url: 'https://ai.ethz.ch/'
-    company_logo: org-eth-ai-center
-    location: Zürich, Switzerland
-    date_start: '2022-10-01'
-    date_end: '2023-01-31'
+  - title: Research Associate
+    company: University College London
+    company_url: 'https://www.sml-group.cc/'
+    company_logo: 2560px-University_College_London_logo
+    location: London, United Kingdom
+    date_start: '2021-10-20'
+    date_end: '2023-10-20'
     description: |-
-        <font size="4"> Completed a lab rotation in the Neural Learning and Intelligent Systems lab of [Prof. Benjamin Grewe](https://scholar.google.de/citations?user=ZA-1rh8AAAAJ&hl=en) under the supervision of [Anh Duong Vo](https://www.linkedin.com/in/anh-duong-vo/).
+        <font size="4"> Developed [vGPMP](https://proceedings.mlr.press/v238/c-cosier24a.html), a highly customizable probabilistic motion planning algorithm in Tensorflow.
         {style="text-align: justify;"}
         
-        - Implement a spiking neural network model of layer 5 (L5) of the Visual Cortex
-        - Analyse simulation results of the model under different scenarios
-        - Develop a scalable [codebase](https://github.com/DanInci/snn_visual_cortex) for running further simulations
+        - Oversaw all aspects of research, from designing experiments to testing and implementing theoretical concepts and running simulations in Bullet
+        - Work culminated in a publication at the [AISTATS 2024](https://proceedings.mlr.press/v238/c-cosier24a.html) conference which had an acceptance rate of 25%
+        - Applied best software engineering practices to ensure robustness and maintainability of the codebase, including version control with Git and code reviews
         
-        **Skills:** _Python_, _Data Science_, _Machine Learning_ </font>
+        **Skills:** _Python_, _Data Science_, _Machine Learning_, _TensorFlow_, _Bullet_, _Simulation_ </font>
+
+  - title: Research Intern
+    company: CERN
+    company_url: 'https://ai.ethz.ch/'
+    company_logo: cern-vector-logo
+    location: Geneva, Switzerland
+    date_start: '2021-06-01'
+    date_end: '2021-09-11'
+    description: |-
+        <font size="4"> Created a robust pipeline for deploying Graph Neural Networks on the LXPLUS cluster at CERN. Also helped decorrelate mass distribution from network predictions via Adversarial Neural Networks. 
+        {style="text-align: justify;"}
+        
+        - Developed new Graph Neural Network architectures which were deployed on the CERN LXPLUS Linux cluster for maximal throughput efficiency
+        - Improved CERN performance benchmarks for particle identification, implemented gradient reversal layers, and also published the findings internally [here](https://cds.cern.ch/record/2864131)
+        
+        **Skills:** _Python_, _Data Science_, _Machine Learning_, _Deep Learning_, _PyTorch_, _Graph Neural Networks_, _ROOT_, _HTCondor_, _C++_ </font>
 
 design:
   columns: '2'

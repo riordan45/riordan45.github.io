@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Daniel Incicău. My website is under continuous development... stay tuned '
+    notice: '© {year} Rares Iordan. My website is under continuous development... stay tuned '
     license:
       enable: false
       allow_derivatives: false
