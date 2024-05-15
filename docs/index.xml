@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Incicău</title>
-    <link>https://daninci.github.io/</link>
-      <atom:link href="https://daninci.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Daniel Incicău</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <title>Rares Iordan</title>
+    <link>https://riordan45.github.io/</link>
+      <atom:link href="https://riordan45.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rares Iordan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://daninci.github.io/media/icon_hua936e28b267a77c8e5da67c8bcd47eed_21354_512x512_fill_lanczos_center_3.png</url>
-      <title>Daniel Incicău</title>
-      <link>https://daninci.github.io/</link>
+      <url>https://riordan45.github.io/media/icon_hua936e28b267a77c8e5da67c8bcd47eed_21354_512x512_fill_lanczos_center_3.png</url>
+      <title>Rares Iordan</title>
+      <link>https://riordan45.github.io/</link>
     </image>
     
   </channel>

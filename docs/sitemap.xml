@@ -2,16 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://daninci.github.io/categories/</loc>
+    <loc>https://riordan45.github.io/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://daninci.github.io/</loc>
+    <loc>https://riordan45.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://daninci.github.io/publication_types/</loc>
+    <loc>https://riordan45.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://daninci.github.io/tags/</loc>
+    <loc>https://riordan45.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
